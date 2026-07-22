@@ -1,4 +1,4 @@
-# 🎂 Happy 23rd Birthday Sia! - Interactive Birthday Experience  
+# 🎂 Happy 19nd Birthday aditi ! - Interactive Birthday Experience  
 
 [![Live Demo](https://img.shields.io/badge/🎉%20Live%20Demo-Click%20Here-blueviolet?style=for-the-badge)](https://patrick-paul.github.io/happybirthday/)
 
@@ -31,8 +31,8 @@ A personalized, interactive birthday greeting webpage featuring smooth animation
 
 2. **Customize the Content**
 
-   - Replace `./img/sia.jpg` with your recipient's photo
-   - Update the name "Sia" throughout the HTML
+
+   - Update the name "ADITI" throughout the HTML
    - Modify the birthday message in the text box section
    - Add your own birthday song to `./music/hbd.mpeg`
    - Update custom cursor images in `./img/` if desired
@@ -83,7 +83,7 @@ Place your birthday song file at `./music/hbd.mpeg`. The music:
 happybirthday/
 ├── index.html          # Main HTML file
 ├── img/
-│   ├── sia.jpg        # Profile picture
+│   ├── Aditi.jpg        # Profile picture
 │   ├── hat.svg        # Birthday hat
 │   ├── birthday-cake.png    # Cursor image
 │   └── birthday-candle.png  # Cursor image
@@ -121,18 +121,10 @@ Built with love using:
 - [Google Fonts](https://fonts.google.com/) - Typography
 - Vanilla JavaScript - Core functionality
 
-## 📄 License
-
-MIT License - feel free to use this for your loved ones' birthdays!
 
 ---
 
-Made with 💖 by Patrick Paul
-
-**Connect with me:**
-- Instagram: [@patric_forreal](https://instagram.com/patric_forreal)
-- Twitter: [@patrick_forreal](https://x.com/patrick_forreal)
-- GitHub: [@patrick-paul](https://github.com/patrick-paul)
+Made with 💖 by Aryan gupta
 
 ---
 
